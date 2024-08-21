@@ -1,0 +1,14 @@
+C:\Users\Yavuz\source\repos\Week5Final\Week5Final\bin\Debug\net8.0\Week5Final.exe
+C:\Users\Yavuz\source\repos\Week5Final\Week5Final\bin\Debug\net8.0\Week5Final.deps.json
+C:\Users\Yavuz\source\repos\Week5Final\Week5Final\bin\Debug\net8.0\Week5Final.runtimeconfig.json
+C:\Users\Yavuz\source\repos\Week5Final\Week5Final\bin\Debug\net8.0\Week5Final.dll
+C:\Users\Yavuz\source\repos\Week5Final\Week5Final\bin\Debug\net8.0\Week5Final.pdb
+C:\Users\Yavuz\source\repos\Week5Final\Week5Final\obj\Debug\net8.0\Week5Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yavuz\source\repos\Week5Final\Week5Final\obj\Debug\net8.0\Week5Final.AssemblyInfoInputs.cache
+C:\Users\Yavuz\source\repos\Week5Final\Week5Final\obj\Debug\net8.0\Week5Final.AssemblyInfo.cs
+C:\Users\Yavuz\source\repos\Week5Final\Week5Final\obj\Debug\net8.0\Week5Final.csproj.CoreCompileInputs.cache
+C:\Users\Yavuz\source\repos\Week5Final\Week5Final\obj\Debug\net8.0\Week5Final.dll
+C:\Users\Yavuz\source\repos\Week5Final\Week5Final\obj\Debug\net8.0\refint\Week5Final.dll
+C:\Users\Yavuz\source\repos\Week5Final\Week5Final\obj\Debug\net8.0\Week5Final.pdb
+C:\Users\Yavuz\source\repos\Week5Final\Week5Final\obj\Debug\net8.0\Week5Final.genruntimeconfig.cache
+C:\Users\Yavuz\source\repos\Week5Final\Week5Final\obj\Debug\net8.0\ref\Week5Final.dll
