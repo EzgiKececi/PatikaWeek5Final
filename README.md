@@ -1,1 +1,1 @@
-# PatikaWeek5Final
+Araba sınıfından üretilecek nesneler, konsol üzerinden kullanıcıdan alınan bilgiler ile oluşturuldu. Kullanıcının, araba üretimine devam etmesi ya da programı sonlandırması için while döngüsü kullanıldı. Üretilen her araba nesnesi bir listeye aktarıldı. Daha son foreach döngüsü kullanılarak listedeki üretilen nesneler ile ilgili bilgiler konsola yazdırıldı. 
